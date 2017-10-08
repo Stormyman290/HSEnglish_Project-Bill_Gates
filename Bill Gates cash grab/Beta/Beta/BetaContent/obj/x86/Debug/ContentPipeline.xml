@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Characters\Testbox\Square.bmp</Source>
+      <Name>Characters\Testbox\Square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\Characters\Testbox\Square.xnb</Output>
+      <Time>2015-05-03T19:35:20.4034461-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PlatformSprite.png</Source>
+      <Name>PlatformSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\PlatformSprite.xnb</Output>
+      <Time>2015-05-03T19:35:20.3566461-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menue\SplashArt_1.jpg</Source>
+      <Name>Menue\SplashArt_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_1.xnb</Output>
+      <Time>2015-05-03T19:35:20.4346462-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menue\SplashArt_2.jpg</Source>
+      <Name>Menue\SplashArt_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_2.xnb</Output>
+      <Time>2015-05-03T19:35:20.4502462-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menue\SplashArt_3.jpg</Source>
+      <Name>Menue\SplashArt_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_3.xnb</Output>
+      <Time>2015-05-03T19:35:20.4678464-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menue\SplashArt_4.jpg</Source>
+      <Name>Menue\SplashArt_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_4.xnb</Output>
+      <Time>2015-05-03T19:35:20.5146464-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menue\SplashArt_5.jpg</Source>
+      <Name>Menue\SplashArt_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_5.xnb</Output>
+      <Time>2015-05-03T19:35:20.5302465-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menue\SplashArt_6.jpg</Source>
+      <Name>Menue\SplashArt_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_6.xnb</Output>
+      <Time>2015-05-03T19:35:20.5458465-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menue\SplashArt_7.jpg</Source>
+      <Name>Menue\SplashArt_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_7.xnb</Output>
+      <Time>2015-05-03T19:35:20.5614465-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menue\SplashArt_8.jpg</Source>
+      <Name>Menue\SplashArt_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_8.xnb</Output>
+      <Time>2015-05-03T19:35:20.5770466-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menue\SplashArt_9.jpg</Source>
+      <Name>Menue\SplashArt_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_9.xnb</Output>
+      <Time>2015-05-03T19:35:20.5926466-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Platforms.png</Source>
+      <Name>Platforms</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\Platforms.xnb</Output>
+      <Time>2015-05-03T19:35:20.325446-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ElementalObstructions.png</Source>
+      <Name>ElementalObstructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\ElementalObstructions.xnb</Output>
+      <Time>2015-05-03T19:35:19.5392287-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-05-03T19:35:20.3722461-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2015-05-03T19:35:20.3878461-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GatesLetter.mp3</Source>
+      <Name>GatesLetter</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\GatesLetter.xnb</Output>
+      <Extra>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\GatesLetter.wma</Extra>
+      <Time>2015-05-06T20:42:39.0776971-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bill-Gates-Microsoft-52.png</Source>
+      <Name>Bill-Gates-Microsoft-52</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\Bill-Gates-Microsoft-52.xnb</Output>
+      <Time>2015-05-10T17:14:11.4211814-05:00</Time>
+    </Item>
+    <Item>
+      <Source>billMelinda.png</Source>
+      <Name>billMelinda</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\billMelinda.xnb</Output>
+      <Time>2015-05-10T17:30:56.0466427-05:00</Time>
+    </Item>
+    <Item>
+      <Source>4ElementsSeasonsBackgroundFinal copy.png</Source>
+      <Name>4ElementsSeasonsBackgroundFinal copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\4ElementsSeasonsBackgroundFinal copy.xnb</Output>
+      <Time>2015-05-13T21:26:42.5877617-05:00</Time>
+    </Item>
+    <Item>
+      <Source>microsoft_logo_1.png</Source>
+      <Name>microsoft_logo_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\microsoft_logo_1.xnb</Output>
+      <Time>2015-05-13T21:49:02.5064007-05:00</Time>
+    </Item>
+    <Item>
+      <Source>IBM.png</Source>
+      <Name>IBM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\IBM.xnb</Output>
+      <Time>2015-05-13T21:56:59.8437028-05:00</Time>
+    </Item>
+    <Item>
+      <Source>codes.png</Source>
+      <Name>codes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\codes.xnb</Output>
+      <Time>2015-05-13T22:02:29.8815799-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\BetaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\BetaContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Chris Hahn\Desktop\Bill Gates cash grab\Beta\Beta\Beta\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-20T19:49:32.9855221-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
